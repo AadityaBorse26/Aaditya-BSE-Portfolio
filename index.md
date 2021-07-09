@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# RFID Attendance System
+This is an RFID based card reader that will allow one to check in users using RFID-based scanning. The system also uses an LCD screen to tell if users are checked in or not. A log of users that have checked in or out will be tabulated in a website that can be used to measure attendance. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
