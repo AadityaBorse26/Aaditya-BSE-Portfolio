@@ -3,7 +3,7 @@ This is an RFID based card reader that will allow one to check in users using RF
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Aaditya Borse | American High School | Computer Engineering | Incoming Senior
+| Aaditya | American High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
