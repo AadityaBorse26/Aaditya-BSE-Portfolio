@@ -5,7 +5,8 @@ This is an RFID based card reader that will allow one to check in users using RF
 |:--:|:--:|:--:|:--:|
 | Aaditya | American High School | Computer Engineering | Incoming Senior
 
-![Headstone Image]<img src="images/projectpic.jpg" width=500 align=center style="float:right; padding-right:10px">
+![Headstone Image]
+<img src="images/projectpic.jpg" width=500 align=center style="float:right; padding-right:10px">
   
 # Third & Final Milestone
 My third milestone was to fully integrate my LCD display and my RFID reader to work with the Raspberry Pi. I had to first rewire the RFID onto the RPi after I had soldered it. I then rewired my LCD display and then ran my attendance scripts. The scripts did not display onto the LCD as the LCD has an I2C serial interface, which did not run on the same connections as my previous code. I then found another Git LCD library and imported that into the Raspberry Pi. I then changed and edited the original attendance Python code to work with the new LCD library. Now the RFID was reading the tag and this was showing up on the LCD. 
