@@ -15,7 +15,7 @@ The project works on the basis that the RFID reader will scan the tag, which wil
 
   
 # Third & Final Milestone
-My third milestone was to fully integrate my LCD display and my RFID reader to work with the Raspberry Pi. I had to first rewire the RFID onto the RPi after I had soldered it. I then rewired my LCD display and then ran my attendance scripts. The scripts did not display onto the LCD as the LCD has an I2C serial interface, which did not run on the same connections as my previous code. I then found another Git LCD library and imported that into the Raspberry Pi. I then changed and edited the original attendance Python code to work with the new LCD library. Now the RFID was reading the tag and this was showing up on the LCD. 
+My third milestone was to fully integrate my LCD display and my RFID reader to work with the Raspberry Pi. I had to first rewire the RFID onto the RPi after I had soldered it. I then rewired my LCD display and then ran my attendance scripts. The scripts did not display onto the LCD as the LCD has an I2C serial interface, which did not run on the same connections as my previous code. I then found another Git LCD library and imported that into the Raspberry Pi. I then changed and edited the original attendance Python code to work with the new LCD library. Now the RFID was reading the tag and this was showing up on the display.
 
 [![Aaditya's Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1626973386/video_to_markdown/images/youtube--5aMEd0Jf01I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/5aMEd0Jf01I "Aaditya's Third Milestone"){:target="_blank" rel="noopener"}
 
