@@ -6,7 +6,7 @@ This is an RFID based card reader that will allow one to check in users using RF
 | Aaditya | American High School | Computer Engineering | Incoming Senior
 
 ![Headstone Image]
-<img src="images/projectpic.jpg" width=900 align=center style="padding-left:10px; padding-bottom:10px;">
+<img src="images/projectpic.jpg" style= "text-align:center; width:100%; display:block; margin:auto; ">
   
   
 # Third & Final Milestone
